@@ -1,10 +1,10 @@
 # FULL STACK WEB DEVELOPER
 
 
-#### caseypreston4@gmail.com
+####caseypreston4@gmail.com
 
 
-### Technologies
+### technologies
 
 HTML5 | CSS3 | Express 
 ----- | -----| ------- 
@@ -12,13 +12,13 @@ JavaScript | jQuery | MySQL
 BootStrap | JSON | AJAX 
 Node.js | Git | GitHub
 
-### Skills
+###skills
 
 UX/Design | Responsive Websites
 --------|-------------------------
 frontend development |backend development
 
-### PROJECTS
+ ### PROJECTS
  
  
   [Personal Website Project](https://github.com/Cpreston3/Casey-preston) |
@@ -46,3 +46,6 @@ frontend development |backend development
 <img src = "https://user-images.githubusercontent.com/37227843/96507738-d4944780-1216-11eb-99c3-e43588d8add2.png" alt = "User-Story">|
 <img src = "https://user-images.githubusercontent.com/37227843/96507790-e8d84480-1216-11eb-8378-1500ab8470e8.png" alt = "Interaction-Flow">| 
 
+me
+I am a junior full stack web developer, I have a passion for making beautiful things.
+I believe that the key to happiness is something to do,
