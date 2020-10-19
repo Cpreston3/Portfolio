@@ -1,10 +1,10 @@
 # FULL STACK WEB DEVELOPER
 
 
-####caseypreston4@gmail.com
+#### caseypreston4@gmail.com
 
 
-### technologies
+### Technologies
 
 HTML5 | CSS3 | Express 
 ----- | -----| ------- 
@@ -12,13 +12,13 @@ JavaScript | jQuery | MySQL
 BootStrap | JSON | AJAX 
 Node.js | Git | GitHub
 
-###skills
+### Skills
 
 UX/Design | Responsive Websites
 --------|-------------------------
 frontend development |backend development
 
- ### PROJECTS
+### Projects
  
  
   [Personal Website Project](https://github.com/Cpreston3/Casey-preston) |
