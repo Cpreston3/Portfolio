@@ -24,7 +24,8 @@ frontend development |backend development
   [Personal Website Project](https://github.com/Cpreston3/Casey-preston) |
    ------------------------------------------------------------|
    <img src = "https://user-images.githubusercontent.com/37227843/96305785-ae26a000-0fbb-11eb-8c7d-df61905cf312.png" alt = "portfolio"> |
- |
+ 
+ 
  
  [Shopping List](https://github.com/Cpreston3/Shopping-List) |
  ------------------------------------------------------------ |
@@ -45,7 +46,3 @@ frontend development |backend development
 <img src = "https://user-images.githubusercontent.com/37227843/96507097-efb28780-1215-11eb-96da-5c50d411bd43.png" alt = "Persona"> |
 <img src = "https://user-images.githubusercontent.com/37227843/96507738-d4944780-1216-11eb-99c3-e43588d8add2.png" alt = "User-Story">|
 <img src = "https://user-images.githubusercontent.com/37227843/96507790-e8d84480-1216-11eb-8378-1500ab8470e8.png" alt = "Interaction-Flow">| 
-
-me
-I am a junior full stack web developer, I have a passion for making beautiful things.
-I believe that the key to happiness is something to do,
