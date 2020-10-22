@@ -1,8 +1,5 @@
 # FULL STACK WEB DEVELOPER
-
-
 #### caseypreston4@gmail.com
-
 
 ### Technologies
 
@@ -22,9 +19,14 @@ frontend development |backend development
  
  
   [Personal Website Project](https://github.com/Cpreston3/Casey-preston) |
-   ------------------------------------------------------------|
-   <img src = "https://user-images.githubusercontent.com/37227843/96305785-ae26a000-0fbb-11eb-8c7d-df61905cf312.png" alt = "portfolio"> |
+-------------------------------------------------------------------------|    
+   <img src = "https://user-images.githubusercontent.com/37227843/96305785-ae26a000-0fbb-11eb-8c7d-df61905cf312.png" alt = "PWP"> |
+   
  
+ [Chat Application](https://github.com/Cpreston3/current-project) |
+ ----------------------------------------------------------------|
+ <img src = "https://user-images.githubusercontent.com/37227843/96922490-29310000-146d-11eb-81b0-be9c01e894e0.png" alt =  "User-Janice"> |
+ <img src = "https://user-images.githubusercontent.com/37227843/96922495-2afac380-146d-11eb-9d12-a493f3abfffd.png" alt = "User-Steven"> |
  
  
  [Shopping List](https://github.com/Cpreston3/Shopping-List) |
@@ -46,3 +48,4 @@ frontend development |backend development
 <img src = "https://user-images.githubusercontent.com/37227843/96507097-efb28780-1215-11eb-96da-5c50d411bd43.png" alt = "Persona"> |
 <img src = "https://user-images.githubusercontent.com/37227843/96507738-d4944780-1216-11eb-99c3-e43588d8add2.png" alt = "User-Story">|
 <img src = "https://user-images.githubusercontent.com/37227843/96507790-e8d84480-1216-11eb-8378-1500ab8470e8.png" alt = "Interaction-Flow">| 
+
