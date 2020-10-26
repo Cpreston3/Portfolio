@@ -33,6 +33,9 @@ frontend development |backend development
  ------------------------------------------------------------ |
 <img src = "https://user-images.githubusercontent.com/37227843/96307052-2e4e0500-0fbe-11eb-9a72-0de1c258b969.png" alt="shopping list app"> | 
 
+[Color-Game](https://github.com/Cpreston3/projects/tree/master/Color%20Game%20Project) |
+----------------------------------------------------------------------------------------|
+<img src = "https://user-images.githubusercontent.com/37227843/97214967-77a20f80-1789-11eb-9efa-ed9723411514.png" alt ="color game">|
 
  
  [Color-Picker](https://github.com/Cpreston3/Color-Picker) |
