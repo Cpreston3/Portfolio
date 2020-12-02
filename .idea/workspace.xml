@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d233e01-a5fa-45d2-b780-ee7b533f68d5" name="Default Changelist" comment="took off the about me">
+    <list default="true" id="0d233e01-a5fa-45d2-b780-ee7b533f68d5" name="Default Changelist" comment="added a journey page to ui/ux project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
@@ -66,7 +66,8 @@
       <workItem from="1603738199571" duration="1104000" />
       <workItem from="1605215010977" duration="772000" />
       <workItem from="1605216098257" duration="3081000" />
-      <workItem from="1605219221523" duration="731000" />
+      <workItem from="1605219221523" duration="1391000" />
+      <workItem from="1606944277701" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="I am trying to get the 404 to go away">
       <created>1603147413924</created>
@@ -89,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603149191127</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added a journey page to ui/ux project">
+      <created>1605219977136</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605219977136</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,7 +119,8 @@
     <MESSAGE value="I am trying to get the 404 to go away" />
     <MESSAGE value="fixed some spelling errors" />
     <MESSAGE value="took off the about me" />
-    <option name="LAST_COMMIT_MESSAGE" value="took off the about me" />
+    <MESSAGE value="added a journey page to ui/ux project" />
+    <option name="LAST_COMMIT_MESSAGE" value="added a journey page to ui/ux project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="272" y="92" width="1536" height="879" key="DiffContextDialog" timestamp="1603405951272">
@@ -122,9 +131,13 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1605215771546" />
-    <state x="645" y="246" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1603738656793">
+    <state x="645" y="246" width="800" height="564" key="Vcs.Push.Dialog.v2" timestamp="1605219986497">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="645" y="246" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1603738656793" />
+    <state x="645" y="246" width="800" height="564" key="Vcs.Push.Dialog.v2/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1605219986497" />
+    <state x="807" y="440" width="433" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605219949945">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="807" y="440" width="433" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1920.1053/1920.0.1280.1024@0.27.1920.1053" timestamp="1605219949945" />
   </component>
 </project>

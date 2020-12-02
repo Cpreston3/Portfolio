@@ -6,7 +6,7 @@ Casey Preston @ [LinkedIn](https://www.linkedin.com/in/casey-preston-1a2b2b167/)
 
 HTML5 | CSS3 | Express | Balsamiq
 ----- | -----| ------- | -------
-JavaScript | jQuery | MySQL |Web Sockets
+JavaScript | jQuery | SQL |Web Sockets
 BootStrap | JSON | AJAX | Slack/Zoom
 Node.js | Git | GitHub | Adobe XD
 
